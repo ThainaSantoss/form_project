@@ -3,8 +3,7 @@
 
 ## Descrição
 
-Este formulário foi desenvolvido em JavaScript, que permite a simulação de uma criação de conta contendo Nome, Email e senha. O objetivo principal é demonstrar o funcionamento básico de um formulário.
-
+ Este projeto consiste em um formulário interativo para cadastro de usuários, implementado com HTML, CSS e JavaScript. O objetivo principal é criar um formulário responsivo e dinâmico que valide as entradas do usuário em tempo real, garantindo que os dados inseridos sejam adequados antes de serem enviados.
 
 ## Captura do Projeto
 
