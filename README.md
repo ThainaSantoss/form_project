@@ -26,19 +26,11 @@
 
 1.  **Clone o repositório**:
     
-    bash
-    
-    Copiar código
-    
-    `git clone https://github.com/seu-usuario/form_project.git` 
+    `git clone https://github.com/ThainaSantoss/form_project.git` 
     
 2.  **Navegue até o diretório do projeto**:
     
-    bash
-    
-    Copiar código
-    
-    `cd projeto-form_project` 
+    `cd form_project` 
     
 3.  **Abra o arquivo `index.html` no seu navegador** para visualizar e interagir com a urna eletrônica.
 
